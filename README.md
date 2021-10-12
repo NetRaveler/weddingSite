@@ -3,6 +3,7 @@ Portfolio Project
 Wedding Website
 Features:
 Login and host a wedding
+Ability to toggle wedding as public / private
 Calendar with related events viewable to all
 Bridal Party or Best man / Maid of honor have toggled access to make changes
 Gift registry
@@ -16,3 +17,4 @@ Widgets to place things where you want them like calendar, links to information
 
 Extras:
 budget calculator with interchangeable options
+vendors can interact or quote for budgets
